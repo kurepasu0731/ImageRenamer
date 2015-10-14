@@ -4,3 +4,9 @@ C:\Users\kurep_000\Desktop\ImageRenamer\ImageRenamer\bin\Debug\ImageRenamer.exe
 C:\Users\kurep_000\Desktop\ImageRenamer\ImageRenamer\bin\Debug\ImageRenamer.pdb
 C:\Users\kurep_000\Desktop\ImageRenamer\ImageRenamer\obj\Debug\ImageRenamer.exe
 C:\Users\kurep_000\Desktop\ImageRenamer\ImageRenamer\obj\Debug\ImageRenamer.pdb
+C:\Users\kurep_000\Documents\GitHub\ImageRenamer\ImageRenamer\bin\Debug\ImageRenamer.exe.config
+C:\Users\kurep_000\Documents\GitHub\ImageRenamer\ImageRenamer\obj\Debug\ImageRenamer.exe
+C:\Users\kurep_000\Documents\GitHub\ImageRenamer\ImageRenamer\obj\Debug\ImageRenamer.pdb
+C:\Users\kurep_000\Documents\GitHub\ImageRenamer\ImageRenamer\bin\Debug\ImageRenamer.exe
+C:\Users\kurep_000\Documents\GitHub\ImageRenamer\ImageRenamer\bin\Debug\ImageRenamer.pdb
+C:\Users\kurep_000\Documents\GitHub\ImageRenamer\ImageRenamer\obj\Debug\ImageRenamer.csprojResolveAssemblyReference.cache
